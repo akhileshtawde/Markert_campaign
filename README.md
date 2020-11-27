@@ -16,3 +16,6 @@ The aforementioned data set includes direct marketing campaigns (i.e. phone call
 2. Data Preparation - Market Campaign.ipynb
 3. Model Building & Evaluation - Base Model (1).ipynb
 4. Model Building & Evaluation - Market Campaign(LE & WO PCA).ipynb
+
+# Presentation 
+- file BankMarketing case study.pptx has the analysis of case study
